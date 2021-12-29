@@ -29,19 +29,19 @@ iframe {
 
 @keyframes bgcolor {
   0% {
-    background: #66bf39
+    background: #FFFFFF
   }
 
   33% {
-    background: #eb670f
+    background: #FFFFFF
   }
 
   66% {
-    background: #f35
+    background: #FFFFFF
   }
 
   100% {
-    background: #864cbf
+    background: #FFFFFF
   }
 }
 
