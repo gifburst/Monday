@@ -529,9 +529,9 @@ async function think(result) {
   else if (result.includes("how") && result.includes("are") && result.includes("you")) {
       reply = "I feel good!";
   } else if (result.includes("your") && result.includes("name")) {
-    reply = "My name is John."
+    reply = "My name is Monday."
   } else if (result.includes("who") && result.includes("are") && result.includes("you")) {
-    reply = "I'm John, your virtual Butler."
+    reply = "I'm Monday, your virtual Assistant."
   }
 
   else if (result[0] == ("hello") || result[0] == ("hey") || result[0] == ("hi") ) {
